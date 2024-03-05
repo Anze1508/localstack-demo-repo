@@ -21,7 +21,7 @@ This project showcases the deployment of a **Python Lambda function using Docker
 
 ## Challenges and Solutions
 
-- Encountered issues with Lambda invocation output, solved by checking LocalStack logs for correct execution and output handling.
+- Encountered issues with Lambda invocation output, solved by checking LocalStack logs for correct execution and output handling. Was able to see the correct message: "Hello from LocalStack Lambda container image!".
 
 ## Learning Outcomes
 
@@ -32,5 +32,3 @@ This project showcases the deployment of a **Python Lambda function using Docker
 
 - Expand the project to include more AWS services.
 - Enhance the Lambda function for more complex scenarios.
-
-This project demonstrates practical cloud computing skills, problem-solving, and the ability to leverage modern development tools and services.
